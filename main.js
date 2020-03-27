@@ -10,9 +10,13 @@ function buttonWorks(){
 
 function appendPTag () {
     var x = document.getElementById('input-field').value;
-    document.getElementById("p-tag").innerHTML = x;
+    
+        while (p2Tag.firstChild){
+        p2Tag.removeChild(p2Tag.firstChild);
+        };
+        document.getElementById("pTag").innerHTML = x;
 }
 
 // function clearInputField() {
 //     document.getElementById("input-field").reset();
-// }
+// }p
