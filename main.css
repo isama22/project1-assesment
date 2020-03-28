@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+input {
+    width: 50px;
+    border-style: solid;
+
+    border-color: grey;
+}
+/* h2 {
+    border-style: solid;
+
+    border-color: grey;
+} */
+#plusButton {
+display: flex;
+flex-direction: row;
+justify-content: left;
+background-color: lightgray;
+}
+
+#minusButton {
+background-color: lightgray;
+}
+
+#pTag {
+
+}
+
+#p2Tag {
+
+}
