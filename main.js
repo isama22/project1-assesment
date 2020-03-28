@@ -1,4 +1,4 @@
-// realized after writing all this that i got too focused on making the new input value appear that i wasn't thinking about making it actually do any addition, so when you write a new input and press the plus button it only appends itself, but it works great as an input value appender! spent the rest of my time on css and pushing to gh-pages since i didnt have time to start over 
+// realized after writing all this that i got too focused on making the new input value appear that i wasn't thinking about making it actually do any addition, so when you write a new input and press the plus button it only appends itself, but it works great as an input value appender! spent the rest of my time wrestling with css but scrapping it and pushing to gh-pages since i didnt have time to start over 
 
 //cached----------------------------------------------------------------
 let plusButton = document.getElementById('plus-button');

@@ -14,20 +14,16 @@ input {
 
     border-color: grey;
 }
-/* h2 {
-    border-style: solid;
 
-    border-color: grey;
-} */
 #plusButton {
-display: flex;
-flex-direction: row;
-justify-content: left;
-background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    background-color: lightgray;
 }
 
 #minusButton {
-background-color: lightgray;
+    background-color: lightgray;
 }
 
 #pTag {
